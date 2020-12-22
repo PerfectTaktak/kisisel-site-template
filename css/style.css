@@ -1,0 +1,75 @@
+body {
+
+    background-color:  darkgray;
+    background-image: url('file:///C:/Users/devil/Desktop/Projeler/Dersler/1/img/main2.jpg');
+}
+
+.anasayfa {
+
+    position:  absolute;
+    margin-top: 65px;
+    margin-left: 425px;
+}
+
+.ana-ustkisim {
+
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -605px;
+}
+
+.ana-altkisim {
+
+    position: absolute;
+    margin-top: 300px;
+    margin-left: -605px;
+}
+
+.site-altkisim {
+
+    position: absolute;
+    margin-left: -605px;
+    margin-top: 1000px;
+}
+
+.site-ortakisim {
+
+    position:  absolute;
+    margin-left: -605px;
+    margin-top: 700px;
+}
+
+.taktak26-devs {
+
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 833px;
+}
+
+.sosyal-medya {
+
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 405px;
+}
+
+.instagram {
+
+    position: absolute;
+    margin-left: 422px;
+    margin-top: 543px;
+}
+
+.facebook {
+
+    position: absolute;
+    margin-left: 695px;
+    margin-top: 543px;
+}
+
+.kisisel-web {
+
+    position: absolute;
+    margin-left: 560px;
+    margin-top: -18px;
+}
